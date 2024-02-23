@@ -2,7 +2,7 @@
 
 Welcome to the PUBG Style Changer App repository! This application allows users to modify various graphical settings in PUBG Mobile, including graphics style, graphics quality, frame rate, and iPad view, to enhance their gaming experience.
 
-![PUBG Style Changer App]([https://freeimage.host/i/JGoHPzg](https://media.discordapp.net/attachments/797059427470540811/1210418977415888936/Screenshot_20240223-081613.png?ex=65ea7d84&is=65d80884&hm=2ffab5be6e890e4e57158aa578da1cd6a8867b975a8cded304ab6630ccbb7fa0&=&format=webp&quality=lossless&width=550&height=309))
+![PUBG Style Changer App](https://i.postimg.cc/VN28CMkK/Screenshot-20240223-081613.png)
 
 ## Features
 
