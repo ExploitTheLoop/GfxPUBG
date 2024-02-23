@@ -30,8 +30,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 We would like to thank the PUBG community for their support and feedback in the development of this application.
 
-## Contact
-
-For any questions, suggestions, or issues, please feel free to contact the project maintainer(s) at [sayan8013cocacc@gmail.com](https://mail.google.com/).
-
 Happy gaming! 🎮
