@@ -15,7 +15,7 @@ Welcome to the PUBG Style Changer App repository! This application allows users 
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](https://freeimage.host/i/JGoHPzg)
+![Screenshot 1]([https://freeimage.host/i/JGoHPzg](https://i.ibb.co/YQvKxFm/Screenshot-20240223-081613.png))
 ![Screenshot 2](https://example.com/screenshot2.png)
 ![Screenshot 3](https://example.com/screenshot3.png)
 
